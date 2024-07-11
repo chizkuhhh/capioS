@@ -1,0 +1,20 @@
+Mon Apr 10 23:34:26 2023
+Sent by: chizkuhhh
+Sent to: janedoe
+Subject: sample subject
+Message: sample message
+Mon Apr 10 23:35:06 2023
+Sent by: johnsmith
+Sent to: chizkuhhh janedoe 
+Subject: group subject
+Message: group message
+Mon Apr 10 23:35:57 2023
+Sent by: janedoe
+Replying to: chizkuhhh
+Subject: sample subject
+Message: reply to pm
+Mon Apr 10 23:36:04 2023
+Sent by: janedoe
+Replying to: johnsmith chizkuhhh 
+Subject: group subject
+Message: reply to gm

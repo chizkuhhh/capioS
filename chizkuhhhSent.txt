@@ -1,0 +1,8 @@
+Mon Apr 10 23:34:26 2023
+Sent to: janedoe
+Subject: sample subject
+Message: sample message
+Mon Apr 10 23:36:54 2023
+-- ANNOUNCEMENT FOR ALL --
+this is an announcement
+sample sample sample

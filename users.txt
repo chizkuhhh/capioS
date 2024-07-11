@@ -1,0 +1,25 @@
+3
+0
+John Smith
+johnsmith
+password123
+4
+Town
+DEFAULT USER
+0
+1
+Jane Doe
+janedoe
+password456
+1
+City
+New Description
+0
+2
+Cheska Capio
+chizkuhhh
+#abc123
+1
+Manila
+DEFAULT USER
+0

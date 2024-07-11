@@ -1,0 +1,15 @@
+Mon Apr 10 23:35:06 2023
+johnsmith
+janedoe 
+group subject
+group message
+Mon Apr 10 23:35:57 2023
+janedoe
+Replying to: sample message
+sample subject
+reply to pm
+Mon Apr 10 23:36:04 2023
+janedoe
+johnsmith 
+group subject
+reply to gm
